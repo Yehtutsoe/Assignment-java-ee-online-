@@ -1,0 +1,14 @@
+com\jdc\online\shop\model\entity\Member.class
+com\jdc\online\shop\security\LoginUserHolder.class
+com\jdc\online\shop\model\beans\ShopEditBean.class
+com\jdc\online\shop\AppException.class
+com\jdc\online\shop\model\service\MemberService.class
+com\jdc\online\shop\model\entity\Member$Role.class
+com\jdc\online\shop\model\service\ShopService.class
+com\jdc\online\shop\model\beans\LoginBean.class
+com\jdc\online\shop\model\entity\Shop.class
+com\jdc\online\shop\AppConfig.class
+com\jdc\online\shop\AdminUserCreate.class
+com\jdc\online\shop\security\CustomIdStroe.class
+com\jdc\online\shop\model\entity\Product.class
+com\jdc\online\shop\model\beans\LogoutBean.class
